@@ -7,7 +7,7 @@ I'm Srikar Lakkimsetti!
 - Pursuing B.tech in Computer Science at Amritha Viswa Vidhyapeetham
 - Intreseted in **DataScience** and **Web Dev**
 
-👀*Stats*
+**👀Stats**
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Slakkimsetty&count_private=true&show_icons=true&hide=contribs)
@@ -15,7 +15,7 @@ I'm Srikar Lakkimsetti!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slakkimsetty&layout=compact)
 
 
-📫Get In Touch:
+**📫Get In Touch**
 
 
 <a href="mailto:srikar.lakkimsetti25@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
