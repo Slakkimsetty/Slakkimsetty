@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)
-![GitHub Followers](https://img.shields.io/github/followers/Slakkimsetty.svg?style=social&label=Follow&maxAge=2592000)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)](https://github.com/Slakkimsetty) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Slakkimsetty.svg?style=social&label=Follow)](https://github.com/Slakkimsetty?tab=followers)
+
 
 I'm Srikar Lakkimsetti!
 - Pursuing B.tech in Computer Science at Amritha Viswa Vidhyapeetham
