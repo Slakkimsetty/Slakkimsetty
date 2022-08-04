@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Srkar Lakkimsetti" />
+</h1>
+
 ### Hello! 👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)](https://github.com/Slakkimsetty) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Slakkimsetty.svg?style=social&label=Follow)](https://github.com/Slakkimsetty?tab=followers)
