@@ -19,6 +19,7 @@ I'm Srikar Lakkimsetti!
   
 📈**My Stats**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Slakkimsetty&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slakkimsetty&layout=compact)
