@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Srikar Lakkimsetti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="left">Hey there, I'm Srikar Lakkimsetti!</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="350"  /></p>
 
@@ -6,8 +6,10 @@
 
 
 👩‍💻 **About Me :**
-- Pursuing B.tech in Computer Science at Amritha Viswa Vidhyapeetham
-- Intreseted in **DataScience** and **Web Dev**
+- 👨🏻‍🎓Pursuing Master in Computer Science in University of Illinois Springfield
+- 🔬Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
+- 🖤 Interests: Travel, Video games, Photography, Food
+- 🧑🏻‍💻Working on **DataScience** **Machine Learning** and **Cloud Services**
 
 🛠💻**Languages and Tools**
 
@@ -28,5 +30,5 @@
 
 📫**Get In Touch**
 
-<a href="mailto:srikar.lakkimsetti25@gmail.com">![srikar.lakkimsetti25@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
+<a href="mailto:lakkimsettisrikar21@gmail.com">![lakkimsettisrikar21@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
 <a href="<www.linkedin.com/in/srikar-lakkimsetti>">![srikar lakkimsetti](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
